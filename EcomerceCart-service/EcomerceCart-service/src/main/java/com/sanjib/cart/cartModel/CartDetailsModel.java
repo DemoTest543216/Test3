@@ -20,5 +20,6 @@ public class CartDetailsModel {
 	@NotNull(message = "Please Provide product Quantity")
 	private Integer quntity;
 	
+	private String userName;
 	
 }
